@@ -1,3 +1,6 @@
+# dataSet :
+https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
 # Work Flow :
 Customer Data -> Data preprocessing -> Data Analysis -> Used WCSS for Optimum num_of_cluster ->K-means clustering -> Visualizing the clusters.
 
